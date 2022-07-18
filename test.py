@@ -1,10 +1,4 @@
 
 
 
-print('HOLA')
-
-print('CHAO')
-
-print('HHHHH')
-
-print('b2 branch')
+print('This is the base for all')
